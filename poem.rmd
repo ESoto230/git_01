@@ -21,6 +21,8 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
-
+"I like the Walrus best," said Alice: "because you see he was a little sorry for the poor oysters."   
+"He ate more than the Carpenter, though," said Tweedledee. "You see he held his handkerchief in front, so that the Carpenter couldn't count how many he took: contrariwise."    
+  
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
